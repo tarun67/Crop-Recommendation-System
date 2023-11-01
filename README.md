@@ -33,6 +33,7 @@ Integration of user feedback and data collection to continuously enhance the rec
 Contributing
 Contributions to the project are welcome. If you have any suggestions, bug reports, or feature requests, please submit them through the issue tracker on the GitHub repository.
 
+![Screenshot (8)](https://github.com/tarun67/Crop-Recommendation-System/assets/147790450/af37a2f1-6563-4e93-a85b-78c35aee1906)
 
 
 # Acknowledgements
