@@ -21,6 +21,7 @@ Flask: Web framework used for building the user interface and handling HTTP requ
 HTML/CSS: Markup and styling languages used for designing the web interface.
 JavaScript: Scripting language used for client-side interactions and enhancing the user interface.
 # Front end Part
+![Screenshot (9)](https://github.com/tarun67/Crop-Recommendation-System/assets/147790450/7d0da20a-07ab-4abe-8e51-547f042ecc6b)
 
 # Output 
 ![Screenshot (8)](https://github.com/tarun67/Crop-Recommendation-System/assets/147790450/af37a2f1-6563-4e93-a85b-78c35aee1906)
