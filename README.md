@@ -24,7 +24,8 @@ JavaScript: Scripting language used for client-side interactions and enhancing t
 ![Screenshot (9)](https://github.com/tarun67/Crop-Recommendation-System/assets/147790450/7d0da20a-07ab-4abe-8e51-547f042ecc6b)
 
 # Output 
-![Screenshot (8)](https://github.com/tarun67/Crop-Recommendation-System/assets/147790450/af37a2f1-6563-4e93-a85b-78c35aee1906)
+1- ![Screenshot (8)](https://github.com/tarun67/Crop-Recommendation-System/assets/147790450/af37a2f1-6563-4e93-a85b-78c35aee1906)
+2- ![Screenshot (10)](https://github.com/tarun67/Crop-Recommendation-System/assets/147790450/fe1de938-2401-4d16-b06a-c109aa4731e9)
 
 # Installation and Usage
 Clone the repository: git clone https://github.com/your-username/crop-recommendation-system.git
